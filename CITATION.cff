@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "The Freeman Theory Blueprint: From Natural Resources to Engineered Matter"
+message: "If you use this conceptual framework or matrix architecture in your research, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Dugarov"
+    given-names: "Dugar Dalaevich"
+repository-code: "https://github.com/your-username/freeman-theory"
+keywords:
+  - materials informatics
+  - open source
+  - generative chemistry
+  - circular economy
+  - molecular synthesis
+  - project hermes
+abstract: >-
+  The Freeman Theory presents an open framework for shifting resource economics
+  from physical mining to deterministic, algorithmic synthesis of materials 
+  from elemental baselines through a 4-Matrix optimization system.
+license: CC0-1.0
+date-released: 2026-09-28
