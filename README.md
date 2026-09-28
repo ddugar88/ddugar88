@@ -61,3 +61,5 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - **Author:** Dugar Dalaevich Dugarov
 - **Project Context:** Project Hermes & Freeman Theory Research
 - **License:** [CC0 1.0 Universal (Public Domain)](LICENSE)
+
+- 📖 **[Читать полное научное описание Теории Фримена (THEORY.md)](docs/THEORY.md)**
