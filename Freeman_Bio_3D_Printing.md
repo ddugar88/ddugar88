@@ -516,7 +516,3 @@ validation:
 19. Stach, E., DeCost, B., Kusne, A. G., et al. (2021). Autonomous experimentation systems for materials development: A community perspective. *Matter, 4*(9), 2702–2726. https://doi.org/10.1016/j.matt.2021.06.036
 20. Ianovici, I., Zagury, Y., Redenski, I., et al. (2022). 3D-printable plant protein-enriched scaffolds for cultivated meat development. *Biomaterials, 284*, 121487. https://doi.org/10.1016/j.biomaterials.2022.121487
 
----
-
-**Suggested citation:** Dugarov, D. D. (2026). *Freeman Bio-3D Printing: A Conceptual Framework for Inverse-Designed, Hierarchical, and Massively Parallel Biological Manufacturing*. Version 0.1.0. Conceptual research article.
-
