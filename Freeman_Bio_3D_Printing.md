@@ -6,7 +6,7 @@
 **Status:** Conceptual research article; no original experimental results are claimed  
 **Version:** 0.1.0  
 **Date:** October 2026  
-**License:** To be selected by the author before public release
+**License:** CC0 1.0 Universal
 
 > **Terminology note.** “Freeman Theory” is retained as the name of a developing research program. In this article, it denotes a conceptual framework rather than an experimentally established scientific theory. “Freeman Bio-3D Printing” is introduced as an expanded research concept and should not be confused with the capabilities of presently available bioprinters.
 
