@@ -520,4 +520,3 @@ validation:
 
 **Suggested citation:** Dugarov, D. D. (2026). *Freeman Bio-3D Printing: A Conceptual Framework for Inverse-Designed, Hierarchical, and Massively Parallel Biological Manufacturing*. Version 0.1.0. Conceptual research article.
 
-**Publication note:** Before public release, the author should add repository and version identifiers, select a license deliberately, and verify that no confidential or potentially patentable technical material is unintentionally disclosed.
